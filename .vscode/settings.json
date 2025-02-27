@@ -1,17 +1,12 @@
 {
     "githubPullRequests.ignoredPullRequestBranches": [
-        "main"
-        
-        #include< studio.b>
-
-        int main (){
-            /*
-            inf( condicao){
-            // bloco de condigo} a ser executado
-            comando1
-            comando2
-        }*/
-        }
+     
+        int numero1, numero2;
+        numero1=10
+        numero2=5
+        if (numero1> numero2){
+            printf ("numero1 e maior que numero2")
     
+        }
     ]
 }
